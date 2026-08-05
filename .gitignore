@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# Chroma DB
+chroma_db/
+
+# Downloads
+downloads/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+vector_db/
+downloads/
+__pycache__/
+*.pyc
