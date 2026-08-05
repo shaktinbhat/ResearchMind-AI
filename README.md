@@ -262,6 +262,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ![Dashboard](assets/Home.png)
 
-### AI Chat
+### Result page
 
 ![Chat](assets/Result.png)
